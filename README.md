@@ -4,7 +4,18 @@ Hi :wave: My name is Franco Phan
 Web developer 
 ------------- 
 
-I have been learning code for about a year now. I started learning in a bootcamp that taught full stack web development(MERN). I am currently interning at Bitwise as a Front-End React developer. _ :earth_africa: I'm based in Oakland _ :desktop*computer: See my portfolio at [Portfolio](http://Portfolio.com) * :email: You can contact me at [Phanfranco@gmail.com](mailto:Phanfranco@gmail.com) \_ :rocket: I'm currently working on [VPC-Centripoint](http://Not available ) \* :brain: I'm learning Python
+I have been learning code for about a year now. I started learning in a bootcamp that taught full stack web development(MERN). I am currently interning at Bitwise as a Front-End React developer. 
+
+:earth_africa: I'm based in Oakland 
+
+:desktop*computer: See my portfolio at [Portfolio](http://Portfolio.com)
+
+
+:email: You can contact me at [Phanfranco@gmail.com](mailto:Phanfranco@gmail.com) 
+
+:rocket: I'm currently working on [VPC-Centripoint](http://Not available )
+
+:brain: I'm learning Python
 
 ### Skills
 
