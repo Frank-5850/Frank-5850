@@ -8,14 +8,11 @@ I have been learning code for about a year now. I started learning in a bootcamp
 
 :earth_africa: I'm based in Oakland 
 
-:desktop*computer: See my portfolio at [Portfolio](http://Portfolio.com)
-
-
 :email: You can contact me at [Phanfranco@gmail.com](mailto:Phanfranco@gmail.com) 
 
-:rocket: I'm currently working on [VPC-Centripoint](http://Not available )
+:rocket: I'm currently working on a client project. It is a Saas scheduling application. 
 
-:brain: I'm learning Python
+:brain: I'm learning Python.
 
 ### Skills
 
